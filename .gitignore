@@ -1,0 +1,25 @@
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+*.class
+bin/main/application.yaml
+/data/**
+.vscode/**
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+### IntelliJ IDEA ###
+.idea
+/out
+*.iws
+*.iml
+*.ipr
+build
+.DS_Store
+
+applicationinsights-agent-*.jar
+*.log
